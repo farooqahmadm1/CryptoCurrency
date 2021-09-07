@@ -3,14 +3,14 @@ List of Crypto currencies and Detail of that Currency.
 
 Used This Site https://coinpaprika.com/ Public Api's for as Follows
 - List of CrptoCurrency
-![image](https://user-images.githubusercontent.com/45784284/132341005-299f8527-3436-46ea-97b0-586da7f65339.png)
-
 - Detail of CryptoCurrecny
-![image](https://user-images.githubusercontent.com/45784284/132341057-6e874e57-1cf6-4893-b0d2-b1277c4ab445.png)
-
 
 ### Technologies Used
 - Compose UI
 - Clean Architechure & MVVM
 - Navigation Component Compose
 - Hilt (Dependency Injection)
+
+
+<img src="https://user-images.githubusercontent.com/45784284/132341170-5b584578-d53b-44ad-b5c5-aa0d473143ec.png" alt="drawing" width="200"/>  <img src="https://user-images.githubusercontent.com/45784284/132341157-f064baa9-b659-458b-a31a-3b36ede18c1e.png" alt="drawing" width="200"/>
+
